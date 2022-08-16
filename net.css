@@ -1,0 +1,295 @@
+body{
+margin: 0px;
+    
+}
+.body1{
+    width: 100%;
+    background: radial-gradient(transparent, black), url(Untitled.jpeg);
+    height: 100vh;
+   
+   
+}
+.navbar{
+    width: 100%;
+    height: 150px;
+    padding-top: 20px;
+}
+#logo1{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+}#select{
+    margin-left: 1050px;
+    width: 80px;
+    height: 30px;;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background-color: black;
+    border:#fff;
+    border-radius: 1px;
+    
+}
+.loginbtn{
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
+}
+.loginbtn:hover{
+    cursor: pointer;
+    background-color: orangered;
+    color: black;
+}
+.cntnt{
+    margin-left: 30%;
+}
+
+.maintxt{
+    color: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 30%;
+}
+#subtext{
+    margin-left: 100px;
+    color: #fff;
+    font-size: 25px;
+    margin-left: 35%;
+}
+#subtxt2{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.searchbox{
+    width: 600px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 25%;
+}
+#buttonstart{
+    background-color: red;
+    color: whitesmoke;
+    width: 100px;
+    height: 60px;
+    border-radius: 8px;
+    
+}
+#buttonstart:hover{
+    background-color: orangered;
+    cursor: pointer;
+    color: black;
+}
+.scndpage{
+    width: 100%;
+    height: 50vh;
+    background-color: grey;
+    padding-top: 10px;
+   
+}
+#firstpart{
+
+    background-color: black;
+}
+#tvimage{
+    background-color: black;
+}
+
+.maintxt2{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: px;
+    margin-left: 13%;
+    
+}
+.subtxtsnd{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: px;
+    margin-left: 10%;
+    float: left;
+   
+
+}
+.tv{
+    width: 500px;
+    float: left;
+    margin-left: 100px;
+    position: absolute;
+    top: 0%;
+}
+.thdpage{
+    width: 100%;
+    height: 40vh;
+    background-color: grey;
+    padding-top: 10px;
+   
+}
+#mobileimg{
+   
+    background-color: black;
+}
+#download{
+    position: absolute;
+    top: 0px;
+}
+#textthd{
+    
+    background-color: black;
+}
+.maintxtthd{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: px;
+    margin-left: 20%;
+
+}
+.subtxtthd{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: px;
+    margin-left: 20%;
+    float: left;
+}
+.frthpage{
+    width: 100%;
+    height: 40vh;
+    background-color: grey;
+    padding-top: 10px;
+}
+#parent{
+    background-color: black;
+    position: relative;
+}
+#tvvideo{
+    width: 400px;
+    height: 300px;;
+
+}
+#tvimg{
+    position: absolute;
+    top: 0px;
+}
+#parent2{
+    background-color: black;
+    position: relative;
+}
+
+
+#macframee{
+    zoom: 75%;
+    margin-left: 100px;
+}
+#macframee2{
+    position: absolute;
+    top: 0px;
+    zoom: 90%;
+}
+#frthtext{
+    background-color: black;
+    margin-top: 20px;
+    
+}
+#parent3{
+    background-color: black;
+    position: relative;
+}
+#download{
+    margin-top: 220px;
+    margin-left: 150px;
+    background-color:black;
+    width: 300px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid white;
+    
+}
+#frthimage{
+    background-color: black;
+    margin-top: 20px;
+}
+#frthmaintxt{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 20%;
+
+}
+#frthsubtxt{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+   
+    margin-left: 20%;
+}
+.fifthpage{
+    background-color: grey;
+    width: 100%;
+    height: 50vh;
+}
+#fifthtext{
+    background-color: black;
+    margin-top: 20px;
+}
+#fifthimage{
+    background-color:black;
+  margin-top: 20px;
+  
+}
+.sxthpage{
+    background-color: gray;
+
+}
+#sxthtxt{
+    background-color: black;
+}
+#fretxt{
+    font-size: 50px;
+    color: #fff;
+    margin-left: 400px;
+}
+#whatisnetflix{
+    width: 700px;
+    background-color:#303030;
+    height: 60px;
+    margin-left: 400px;
+    color: #FFF;
+    font-size: 15px;
+    margin-bottom: 8px;
+    padding-top: 5px;
+}.lasttxt1{
+    font-family:sans-serif;
+    text-rendering: auto;
+    margin-top: 3px;
+    margin-left: 30px;
+}
+.fa-thin{
+    color: #fff;
+    font-size: 50px;
+}
+.lastemailbox{
+    width: 600px;
+    height: 50px;
+   
+    margin-left: 27%;
+}
+.lastbutton{
+    background-color: red;
+    color: whitesmoke;
+    width: 100px;
+    height: 60px;
+    
+}
+.lastbutton:hover{
+    cursor: pointer;
+    background-color: rgb(249, 87, 87);
+}
